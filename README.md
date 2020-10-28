@@ -1,1 +1,1 @@
-# PigGame2020
+# PigGame2020 - developed while learning JS
